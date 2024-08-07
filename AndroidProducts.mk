@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_sakura.mk
+    $(LOCAL_DIR)/yaap_sakura.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_sakura-user \
-    lineage_sakura-userdebug \
-    lineage_sakura-eng
+    yaap_sakura-user \
+    yaap_sakura-userdebug \
+    yaap_sakura-eng
